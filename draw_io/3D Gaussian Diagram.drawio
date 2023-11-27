@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T13:18:23.092Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oOJQaaNe-kZEpxhXy486" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T13:18:58.259Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SRjyuj--5WI08tKVK8yi" version="16.0.3" type="github">
   <diagram id="e7jxaDOpjpu6YRROCkMF" name="Page-1">
     <mxGraphModel dx="1700" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -40,8 +40,8 @@
         <mxCell id="oqYe2gaAYEWemPMkAiZC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oqYe2gaAYEWemPMkAiZC-6" target="oqYe2gaAYEWemPMkAiZC-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oqYe2gaAYEWemPMkAiZC-23" value="$$`\mathbf{u}=\varphi(\mathbf{t})=\mathbf{R}_o^c \mathbf{t}+\mathbf{t}_o^c`$$" style="text;html=1;spacing=5;spacingTop=-10;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;shadow=0;rounded=0;verticalAlign=middle" parent="1" vertex="1">
-          <mxGeometry x="380" y="240" width="260" height="64" as="geometry" />
+        <mxCell id="oqYe2gaAYEWemPMkAiZC-23" value="$$\mathbf{u}=\varphi(\mathbf{t})=\mathbf{R}_o^c \mathbf{t}+\mathbf{t}_o^c$$" style="text;html=1;spacing=5;spacingTop=-10;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;shadow=0;rounded=0;verticalAlign=middle" parent="1" vertex="1">
+          <mxGeometry x="200" y="80" width="260" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
