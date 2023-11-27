@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T13:18:58.259Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SRjyuj--5WI08tKVK8yi" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T13:20:43.177Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BEnGJp6A6cIHddx9hoUo" version="16.0.3" type="github">
   <diagram id="e7jxaDOpjpu6YRROCkMF" name="Page-1">
     <mxGraphModel dx="1700" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -41,7 +41,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oqYe2gaAYEWemPMkAiZC-23" value="$$\mathbf{u}=\varphi(\mathbf{t})=\mathbf{R}_o^c \mathbf{t}+\mathbf{t}_o^c$$" style="text;html=1;spacing=5;spacingTop=-10;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;shadow=0;rounded=0;verticalAlign=middle" parent="1" vertex="1">
-          <mxGeometry x="200" y="80" width="260" height="64" as="geometry" />
+          <mxGeometry x="220" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jef3vkf_4cXvFV7Got9c-2" value="$$\mathbf{p} \simeq\mathbf{p}_k + \mathbf{J}_{\mathbf{u}_k} \cdot \left( \mathbf{u}-\mathbf{u}_k \right)$$" style="text;html=1;spacing=5;spacingTop=-10;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;shadow=0;rounded=0;verticalAlign=middle" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
