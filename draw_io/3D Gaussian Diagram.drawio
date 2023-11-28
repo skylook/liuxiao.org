@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T02:43:30.103Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4ZqtKRTuVlAErxKNYPFn" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T02:44:18.776Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="KugXrZCefdf-PLWH5C7f" version="16.0.3" type="github">
   <diagram id="e7jxaDOpjpu6YRROCkMF" name="Page-1">
     <mxGraphModel dx="1700" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           <mxGeometry x="380" y="60.33" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bOv_d1y4HtLW6k5izckC-1" value="$$\mathbf{x} \sim \mathcal{N}\left(\mathbf{\mu}, \mathbf{\Sigma}\right)$$" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=bottom;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-155" y="80.33" width="400" height="20" as="geometry" />
+          <mxGeometry x="-155" y="70.33" width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bOv_d1y4HtLW6k5izckC-2" value="$$\mathbf{x} \sim \mathcal{N}\left(\mathbf{p}, \mathbf{\Sigma}^{\prime}\right)$$" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=bottom;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="80.33" width="430" height="20" as="geometry" />
