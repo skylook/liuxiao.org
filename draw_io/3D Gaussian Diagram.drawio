@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T13:25:52.465Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gUZpZ3ov8Pg22DacrEk_" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T02:43:30.103Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4ZqtKRTuVlAErxKNYPFn" version="16.0.3" type="github">
   <diagram id="e7jxaDOpjpu6YRROCkMF" name="Page-1">
     <mxGraphModel dx="1700" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -40,17 +40,17 @@
         <mxCell id="oqYe2gaAYEWemPMkAiZC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oqYe2gaAYEWemPMkAiZC-6" target="oqYe2gaAYEWemPMkAiZC-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oqYe2gaAYEWemPMkAiZC-23" value="$$\mathbf{u}=\varphi(\mathbf{t})=\mathbf{R}_o^c \mathbf{t}+\mathbf{t}_o^c$$" style="text;html=1;spacing=5;spacingTop=-10;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;shadow=0;rounded=0;verticalAlign=middle" parent="1" vertex="1">
-          <mxGeometry x="220" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="oqYe2gaAYEWemPMkAiZC-23" value="$$\mathbf{u}=\varphi(\mathbf{t})=\mathbf{R}_o^c \mathbf{t}+\mathbf{t}_o^c$$" style="text;html=1;spacing=5;spacingTop=-10;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;shadow=0;rounded=0;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="220" y="60.33" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Jef3vkf_4cXvFV7Got9c-2" value="$$\mathbf{p} \simeq\mathbf{p}_k + \mathbf{J}_{\mathbf{u}_k} \cdot \left( \mathbf{u}-\mathbf{u}_k \right)$$" style="text;html=1;spacing=5;spacingTop=-10;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;shadow=0;rounded=0;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="380" y="80.33" width="160" height="40" as="geometry" />
+        <mxCell id="Jef3vkf_4cXvFV7Got9c-2" value="$$\mathbf{p} \simeq\mathbf{p}_k + \mathbf{J}_{\mathbf{u}_k} \cdot \left( \mathbf{u}-\mathbf{u}_k \right)$$" style="text;html=1;spacing=5;spacingTop=-10;whiteSpace=wrap;overflow=hidden;fillColor=none;strokeColor=none;shadow=0;rounded=0;verticalAlign=bottom;align=center;" parent="1" vertex="1">
+          <mxGeometry x="380" y="60.33" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bOv_d1y4HtLW6k5izckC-1" value="$$\mathbf{x} \sim \mathcal{N}\left(\mathbf{\mu}, \mathbf{\Sigma}\right)$$" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-155" y="90.33" width="400" height="20" as="geometry" />
+        <mxCell id="bOv_d1y4HtLW6k5izckC-1" value="$$\mathbf{x} \sim \mathcal{N}\left(\mathbf{\mu}, \mathbf{\Sigma}\right)$$" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=bottom;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-155" y="80.33" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bOv_d1y4HtLW6k5izckC-2" value="$$\mathbf{x} \sim \mathcal{N}\left(\mathbf{p}, \mathbf{\Sigma}^{\prime}\right)$$" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="90.33" width="430" height="20" as="geometry" />
+        <mxCell id="bOv_d1y4HtLW6k5izckC-2" value="$$\mathbf{x} \sim \mathcal{N}\left(\mathbf{p}, \mathbf{\Sigma}^{\prime}\right)$$" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=bottom;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="80.33" width="430" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
